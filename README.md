@@ -47,9 +47,3 @@ This project demonstrates a basic **Simple Linear Regression** model to predict 
 - **Prediction**: Model outputs salary predictions for test data
 
 ---
-
-## 🔧 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/simple-linear-regression-salary.git
